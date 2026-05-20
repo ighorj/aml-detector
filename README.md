@@ -163,8 +163,3 @@ jupyter lab notebooks/01_exploration.ipynb
 - [ ] Output a per-account risk report with score and reasons
 
 ---
-
-## 👤 Author
-
-Built by [@ighorj](https://github.com/ighorj) as a first ML project.
-Open to feedback, suggestions and collaboration.
